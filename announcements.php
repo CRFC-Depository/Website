@@ -1,0 +1,157 @@
+<div class="card">
+  <img class="card-img-top" src="content/img_card/churchpicnic.jpg" loading="lazy" alt="Church Picnic">
+  <div class="card-body">
+    <h3 class="card-title">Church Picnic</h3>
+    <h6 class="card-subtitle">June 14, 1:00pm</h6>
+    <p>Let's ring in summer with a church picnic at McCormick Park. Bring a main
+      dish and a side or dessert to share. Don't forget your lawn chair or picnic
+      blanket!</p>
+  </div>
+</div>
+
+<div class="card">
+  <img class="card-img-top" src="content/img_card/river_baptism.jpg" loading="lazy" alt="River Baptism">
+  <div class="card-body">
+    <h3 class="card-title">Water Baptism</h3>
+    <h6 class="card-subtitle">June 14, 2:00pm class, 2:30pm service</h6>
+    <p>If you are a believer and have not yet been water baptized, we would love to celebrate this important step 
+      in your life. Water baptism is a beautiful outward expression of Christ's inner work in your life. There is 
+      an opportunity to be baptized in the river during our annual summer picnic.</p>
+    <a class="btn btn-primary" href="https://www.jotform.com/form/261135108054144" target="_blank" rel="noopener">Sign Up</a>
+    </div>
+</div>
+
+<div class="card">
+  <img class="card-img-top" src="content/img_card/honorthegrads.jpg" loading="lazy" alt="Honor the Grads">
+  <div class="card-body">
+    <h3 class="card-title">Honor the Grads</h3>
+    <h6 class="card-subtitle">June 14</h6>
+    <h6 class="card-subtitle">Photos Due: May 27</h6>
+    <p>We will be honoring our 2026 graduates with a slideshow and a time of
+      recognition on Sunday, June 14th, during our Sunday morning church services.
+      If you are a graduate or know a graduate that would like to be included in
+      the slideshow, please send in your photos by Wednesday, May 27th.</p>
+    <a class="btn btn-primary" href="https://form.jotform.com/260435724650152" target="_blank" rel="noopener">Upload</a>
+  </div>
+</div>
+
+<div class="card">
+  <img class="card-img-top" src="content/img_card/mensmarinersbaseballgame.jpg" loading="lazy" alt="Men's Mariners Game">
+  <div class="card-body">
+    <h3 class="card-title">Men's Day at the Park</h3>
+    <h6 class="card-subtitle">June 18, 9:00am</h6>
+    <p>Come on out to the ball game to watch the Mariners play the Orioles! We'll meet at the church and then head over 
+      to T-Mobile Park in Seattle, WA for the game. Only 10 tickets are available, so make sure to sign up and secure 
+      your seat!</p>
+    <a class="btn btn-primary" href="https://pci.jotform.com/form/261275146193155" target="_blank" rel="noopener">Sign Up</a>
+  </div>
+</div>
+
+<div class="card">
+  <img class="card-img-top" src="content/img_card/youth_camp.jpg" loading="lazy" alt="Youth Camp">
+  <div class="card-body">
+    <h3 class="card-title">Youth Camp</h3>
+    <h6 class="card-subtitle">July 26-30</h6>
+    <h6 class="card-subtitle">Canby Grove Christian Center</h6>
+    <p>Youth camp is for 6th - 12th grade students. Camp is a powerful space for 
+      students to be transformed by the presence of God while having as much fun 
+      as humanly possible! Join us this summer as we learn what it looks like to 
+      be people of Kingdom Culture. Registration is open now!</p>
+    <p>Cost: $380, last day to register is June 29.</p>
+    <p>See Pastor Abel if you have more questions.</p>
+    <a class="btn btn-primary" href="https://northwest-summer-camp-524670.churchcenter.com/registrations/events/3508330" target="_blank" rel="noopener">Register</a>
+  </div>
+</div>
+
+<div class="card">
+  <img class="card-img-top" src="content/img_card/camp_chaos.jpg" loading="lazy" alt="Camp Chaos">
+  <div class="card-body">
+    <h3 class="card-title">Kid's Camp</h3>
+    <h6 class="card-subtitle">August 5-8</h6>
+    <h6 class="card-subtitle">Grove Christian Camp, Dorena, Oregon</h6>
+    <p>Kids Camp is for kids entering grades 3-6. Join us for four days of over-the-top games,
+      yummy food, and new friends as we learn that Jesus is our
+      path to peace!</p>
+    <p>Cost: $199, includes camp t-shirt, Snack Shack credit, and swag bag.</p>
+    <p>See Pastor Rachel if you have more questions.</p>
+    <a class="btn btn-primary" href="https://canbyfoursquare.churchcenter.com/registrations/events/3473385" target="_blank" rel="noopener">Register</a>
+  </div>
+</div>
+
+<div class="card">
+  <img class="card-img-top" src="content/img_card/discipleship_night.jpg" loading="lazy" alt="Discipleship Night">
+  <div class="card-body">
+    <h3 class="card-title">Discipleship Night</h3>
+    <h6 class="card-subtitle">Wednesday, 6:30pm</h6>
+    <p>Wednesday night is Discipleship Night at CRFC. Optional classes
+      this season are:</p>
+    <ul>
+      <li>"The Revelation of Jesus" with Pastor Mike</li>
+      <li>"Fearless" Men's & Women's Bible Study with Tim & Nadine Rotter</li>
+      <li>Intercessory Prayer</li>
+      <li>The Rock youth bible study</li>
+      <li>Columbia Kids</li>
+    </ul>
+    <a class="btn btn-primary" href="small_groups.php" target="_blank" rel="noopener">More Info</a>
+  </div>
+</div>
+
+<div class="card">
+  <img class="card-img-top" src="content/img_card/fort_stevens.jpg" loading="lazy" alt="Fort Stevens">
+  <div class="card-body">
+    <h3 class="card-title">Family Camp 2026</h3>
+    <h6 class="card-subtitle">August 16-23</h6>
+    <p>Family Camp is our annual campout at Fort Stevens State Park. Come spend
+      a week getting to know people like no other, and make life-long friends
+      fishing, shopping, bike riding, or just sitting around the fire. Sign up
+      today to reserve a spot for your family.</p>
+    <a class="btn btn-primary" href="https://pci.jotform.com/form/260797755516168" target="_blank" rel="noopener">Sign Up</a>
+  </div>
+</div>
+
+<div class="card">
+  <img class="card-img-top" src="content/img_card/rainforestfalls.jpg" loading="lazy" alt="Vacation Bible School">
+  <div class="card-body">
+    <h3 class="card-title">Vacation Bible School</h3>
+    <h6 class="card-subtitle">June 22-26, 9:00am-12:00pm</h6>
+    <p>Vacation Bible School is a week long day camp for kids going into
+      kindergarten through 5th grade. Rainforest Falls is filled with awesome
+      Bible-learning experiences kids see, hear, and touch! Hands-on science
+      experiments, team-building games, unforgettable Bible songs, and tasty
+      treats are a few of the activities that the kids will get to experience
+      as they learn how to see evidence of God in everyday life. Sign up below
+      for a week full of fun this summer!</p>
+    <a class="btn btn-primary" href="https://form.jotform.com/251857378505164" target="_blank" rel="noopener">Sign Up</a>
+  </div>
+</div>
+
+<div class="card">
+  <img class="card-img-top" src="content/img_card/online_giving.jpg" loading="lazy" alt="Online Giving">
+  <div class="card-body">
+    <h3 class="card-title">Online Giving</h3>
+    <p class="card-text">If you would like to offer a tithe or make a special
+    offering, by far the fastest, easiest, and most secure way to do so is
+    to click the button below or the Online Giving button from the website menu.
+    Contributions are always confidential, and no one at the church sees your
+    private information.</p>
+    <ul>
+    <li>You can use a credit or debit card, or your own PayPal account.</li>
+    <li>You can designate your gift to general tithes, missions, the building fund, or another project.</li>
+    <li>You can set up a recurring payment, and change it at any time.</li>
+    <li>You can also still mail a check to 555 Commons Drive, St. Helens, OR 97051.</li>
+    </ul>
+    <p>Thank you for your continued faithfulness!</p>
+    <a class="btn btn-primary" href="https://www.paypal.com/donate/?hosted_button_id=3VXNA32S32GY4" target="_blank" rel="noopener">Give</a>
+  </div>
+</div>
+
+<!--<div class="card">
+  <img class="card-img-top" src="content/img_card/primetimepotluck.jpg" loading="lazy" alt="Prime Timers' Potluck">
+  <div class="card-body">
+    <h3 class="card-title">Prime Timers' Potluck</h3>
+    <h6 class="card-subtitle">April 25, 12:00pm</h6>
+    <p>All Prime Timers (55+) are invited to this potluck lunch. Bring a dish to
+      share and let's fellowship together.</p>
+  </div>
+</div>-->
+
